@@ -8,6 +8,9 @@ module.exports = {
   organizationName: 'dognote',
   projectName: 'dognote-help',
   themeConfig: {
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'DogNote',
       logo: {
