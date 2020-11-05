@@ -25,7 +25,7 @@ go to `Settings -> Family -> Change Family` and navigate back to the family sele
 Family members can invite new members in two ways.
 First, navigate to `Settings -> Family` and then you'll have two options:
 
-1. The person isn't using DogNote yet. Copy the **invite code** that is unique to the family and send it to the person. This can then be used to join the family after downloading the app.
+1. The person isn't using DogNote yet. Send the magic **invite link** to the person. This can then be used to join the family after downloading the app.
 2. The person is already a DogNote user. **Search by name** and you will be able to send an invite.
 That person will then be able to accept the invite to join the family.
 
