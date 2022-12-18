@@ -21,9 +21,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Expo](https://expo.io/privacy)
-*   [Sentry](https://sentry.io/privacy/)
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Expo](https://expo.io/privacy)
+- [Sentry](https://sentry.io/privacy/)
 
 **Log Data**
 
@@ -39,12 +39,39 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 I may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Personal Data**
+
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+
+- Email address - Used for user identification. Stored safely in our servers and not shared with 3rd parties.
+- First name and last name - Visible to other members of the families You belong to. Stored safely in our servers.
+
+**Use of Your Personal Data**
+
+Personal Data may be used for the following purposes:
+
+- To provide and maintain our Service, including to monitor the usage of our Service.
+- To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+- To contact You: To contact You by email, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+- To manage Your requests: To attend and manage Your requests to Us.
+- For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends to improve our Service, products, services and your experience
+
+**Delete Your Personal Data**
+
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+
+Our Service may give You the ability to delete certain information about You from within the Service.
+
+You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
 **Security**
 
@@ -62,8 +89,8 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-09-01
+This policy is effective as of 2022-18-12
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@dognote.app.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@dognote.app or dognote@restack.ee
